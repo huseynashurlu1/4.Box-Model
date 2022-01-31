@@ -1,0 +1,127 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+a{
+    text-decoration: none;
+}
+
+.clear{
+    clear: both;
+}
+
+#Header{
+    padding: 20px 3rem;
+    overflow: auto;
+}
+
+.header-all .logo{
+    float: left;
+}
+
+.logo a{
+    font-size: 24px;
+    line-height: 52px;
+    color: #666;
+}
+
+.header-all .navbar{
+    float: right;
+    margin-top: 15px;
+}
+
+.navbar a{
+    font-size: 15px;
+    font-weight: 500;
+    margin-left: 20px;
+}
+
+#Slider{
+    background-image: url(https://demo.colorlib.com/wp-content/uploads/sites/59/2016/03/photo-1443527216320-7e744084f5a7-1.jpg);
+    background-position: center;
+    background-size: cover;
+    padding: 10rem 0;
+    text-align: center;
+    color: #fff;
+}
+
+.slider-text h1{
+    font-size: 60px;
+}
+.slider-text p{
+    font-size: 15px;
+    margin: 40px 0;
+}
+
+.slider-text a{
+    color: #fff;
+    font-weight: bold;
+}
+.btn-read{
+    background-color: #745cf9;
+    padding: 15px 50px;
+    border: 2px solid #745cf9;
+}
+
+.btn-download{
+    background-color: transparent;
+    border: 2px solid #fff;
+    margin-left: 10px;
+    padding: 15px 35px;
+    transition: .4s;
+}
+
+.btn-download:hover{
+    background-color: #fff;
+    color: #000;
+}
+/*
+#Services{
+    background-color: #1D809F;
+    text-align: center;
+    padding: 5rem 0;
+    overflow: auto;
+}
+
+.service-text h3{
+    color: #ecb807;
+    font-size: 1rem;
+}
+
+.service-text h2{
+    color: #fff;
+    font-size: 3rem;
+}
+
+#Services .all .box{
+    float: left;
+    width: 25%;
+}
+
+#Services .all{
+    margin-top: 3rem;
+}
+
+#Portfolio{
+    margin-top: 5rem;
+}
+
+
+#Portfolio .all .box{
+    width: 33.3%;
+    float: left;
+}
+
+.box img{
+    width: 100%;
+    transition: .4s;
+    filter: grayscale(1);
+}
+
+.box:hover img{
+    filter: grayscale(0);
+}
+
+*/

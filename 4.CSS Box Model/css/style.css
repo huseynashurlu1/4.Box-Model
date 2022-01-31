@@ -1,0 +1,159 @@
+/* RESET CSS */
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+a{
+    text-decoration: none;
+}
+
+input,select,textarea {
+    outline: none;
+}
+
+button{
+    border-radius: 5px;
+    padding: 15px 50px;
+    font-size: 1rem;
+}
+
+
+/* img{
+    width: 300px;
+    height: 300px;
+    float: right;
+}
+
+p{
+} */
+
+
+.box{
+    width: 32%;
+    margin: 0 5px;
+    border: 5px solid #000;
+    height: 300px;
+    background-color: red;
+    float: left;
+}
+/* 
+div{
+    background-color: salmon;
+    width: 40%;
+}
+
+div p{
+    opacity: 0;
+    transition: .4s;    
+}
+
+div:hover p{
+    opacity: 1;
+}
+
+.one,.three{
+    margin-top: 40px;
+    width: 400px;
+    height: 400px;
+    background-color: tomato;
+}
+
+.two:hover .one{
+    background-color: rgb(13, 192, 153);
+}
+
+.two{
+    width: 100px;
+    height: 100px;
+    background-color: violet;
+}
+
+
+.btn2{
+    background-color: yellow;
+}
+
+.btn3{
+    background-color: violet;
+}
+
+#div{
+    width: 600px;
+    height: 200px;
+    background-color: tomato;
+    border: 10px solid #000;
+}
+
+#div2{
+    margin-top: 50px;
+    width: 600px;
+    height: 200px;
+    background-color: rgb(25, 179, 5);
+    transition: .4s;
+}
+
+#div2:hover{
+    border: 20px solid #000;
+    width: 800px;
+}
+
+#first{
+    width: 500px;
+    height: 500px;
+    background-color: aqua;
+    border: 10px solid;
+    border-radius: 20px;
+}
+
+#demo{
+    width: 40%;
+    height: 200px;
+    background-color: rgb(241, 104, 104);
+    margin-top: 50px;
+    height: 300px;
+    padding-top: 50px;
+}
+
+#demo2{
+    width: 60%;
+    height: 200px;
+    background-color: rgb(158, 214, 27);
+    padding: 50px 0;
+    margin-top: 50px;
+}
+
+#header{
+    background-color: violet;
+    text-align: right;
+    margin-bottom: 40px;
+    padding: 20px 50px;
+}
+
+#header a{
+    margin-left: 20px;
+    background-color: turquoise;
+}
+
+ h1{
+    background-color: lawngreen;
+    color: #fff;
+    text-align: center;
+    margin-top: 100px;
+    padding: 100px 0;
+} 
+
+    padding: 10px 10px 10px 10px;
+    padding: 10px 20px 10px 20px;
+    padding: 10px 20px 30px 20px;
+    padding: 10px 20px 30px 40px;
+
+
+.btn{
+    background-color: yellowgreen;
+    padding: 15px 0 15px 100px;
+}
+
+*/
